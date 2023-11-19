@@ -1,4 +1,5 @@
 # CiperByte-Intern-Projects
 
-Contentts
-1.Project1_GuessTheNumber
+# Contents
+# 1.Project1
+Guess the number
